@@ -370,7 +370,7 @@ class DiscordWebSocket:
                     #'$os': sys.platform,
                     '$os': 'iOS',
                     '$browser': 'Discord iOS',
-                    '$device': 'iPhone X',
+                    '$device': 'Discord iOS',
                     '$referrer': '',
                     '$referring_domain': ''
                 },
