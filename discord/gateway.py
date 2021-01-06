@@ -368,9 +368,9 @@ class DiscordWebSocket:
                 'token': self.token,
                 'properties': {
                     #'$os': sys.platform,
-                    '$os': 'Android',
-                    '$browser': 'Discord',
-                    '$device': 'Android',
+                    '$os': 'android',
+                    '$browser': 'discord',
+                    '$device': 'android',
                     '$referrer': '',
                     '$referring_domain': ''
                 },
