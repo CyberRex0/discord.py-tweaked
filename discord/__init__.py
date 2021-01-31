@@ -15,7 +15,7 @@ __title__ = 'discord'
 __author__ = 'Rapptz'
 __license__ = 'MIT'
 __copyright__ = 'Copyright 2015-present Rapptz'
-__version__ = '1.7.0a'
+__version__ = '1.7.0a-tweaked'
 
 __path__ = __import__('pkgutil').extend_path(__path__, __name__)
 
